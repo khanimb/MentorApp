@@ -1,12 +1,101 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\khanimshb\\Desktop\\MentorApp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D4157B7-55C7-4602-9B81-9E8D525C34B1}|MentorApp\\MentorApp.csproj|c:\\users\\khanimshb\\desktop\\mentorapp\\mentorapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D4157B7-55C7-4602-9B81-9E8D525C34B1}|MentorApp\\MentorApp.csproj|solutionrelative:mentorapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D4157B7-55C7-4602-9B81-9E8D525C34B1}|MentorApp\\MentorApp.csproj|c:\\users\\khanimshb\\desktop\\mentorapp\\mentorapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D4157B7-55C7-4602-9B81-9E8D525C34B1}|MentorApp\\MentorApp.csproj|solutionrelative:mentorapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D4157B7-55C7-4602-9B81-9E8D525C34B1}|MentorApp\\MentorApp.csproj|c:\\users\\khanimshb\\desktop\\mentorapp\\mentorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D4157B7-55C7-4602-9B81-9E8D525C34B1}|MentorApp\\MentorApp.csproj|solutionrelative:mentorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D4157B7-55C7-4602-9B81-9E8D525C34B1}|MentorApp\\MentorApp.csproj|c:\\users\\khanimshb\\desktop\\mentorapp\\mentorapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D4157B7-55C7-4602-9B81-9E8D525C34B1}|MentorApp\\MentorApp.csproj|solutionrelative:mentorapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D4157B7-55C7-4602-9B81-9E8D525C34B1}|MentorApp\\MentorApp.csproj|c:\\users\\khanimshb\\desktop\\mentorapp\\mentorapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D4157B7-55C7-4602-9B81-9E8D525C34B1}|MentorApp\\MentorApp.csproj|solutionrelative:mentorapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\khanimshb\\Desktop\\MentorApp\\MentorApp\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "MentorApp\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\khanimshb\\Desktop\\MentorApp\\MentorApp\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "MentorApp\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T09:56:02.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\khanimshb\\Desktop\\MentorApp\\MentorApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MentorApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\khanimshb\\Desktop\\MentorApp\\MentorApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MentorApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-29T09:53:12.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\khanimshb\\Desktop\\MentorApp\\MentorApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MentorApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\khanimshb\\Desktop\\MentorApp\\MentorApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MentorApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAHgBAAAAAAAAAAAgwJMBAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-29T09:54:06.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\khanimshb\\Desktop\\MentorApp\\MentorApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MentorApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\khanimshb\\Desktop\\MentorApp\\MentorApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MentorApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T09:48:55.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\khanimshb\\Desktop\\MentorApp\\MentorApp\\Program.cs",
+              "RelativeDocumentMoniker": "MentorApp\\Program.cs",
+              "ToolTip": "C:\\Users\\khanimshb\\Desktop\\MentorApp\\MentorApp\\Program.cs",
+              "RelativeToolTip": "MentorApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T09:48:49.996Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
