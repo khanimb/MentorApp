@@ -1,0 +1,20 @@
+﻿using System.Diagnostics;
+using MentorApp.Models;
+using MentorApp.ViewModels;
+using Microsoft.AspNetCore.Mvc;
+
+namespace MentorApp.Controllers
+{
+    public class HomeController(MentorAppDbContext context) : Controller
+    {
+        public IActionResult Index()
+        {
+            var Sliders = context.Sliders.ToList();
+            HomeVm homeVm = new HomeVm
+            {
+                Sliders = sliders
+            };
+            return View(homeVm);
+        }
+    }
+}
